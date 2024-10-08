@@ -1,1 +1,3 @@
-# sudoku-solver
+## Description
+
+A simple sudoku puzzle solver 
