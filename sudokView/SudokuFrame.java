@@ -21,7 +21,7 @@ import javax.swing.text.NumberFormatter;
 
 import sudok.Sudoku;
 
-public class SundokuFrame extends JFrame {
+public class SudokuFrame extends JFrame {
 	private JButton button;
 	private Sudoku sudoku;
 	private JTextField [][] squares;
@@ -29,7 +29,7 @@ public class SundokuFrame extends JFrame {
 	
 	
 
-	public SundokuFrame () {
+	public SudokuFrame () {
 		super("Sudoku Solver");
 		sudoku =  new Sudoku();
 	    //text field font
