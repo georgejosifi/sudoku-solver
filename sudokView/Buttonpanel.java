@@ -15,7 +15,7 @@ private JButton solveButton;
 private JButton resetButton;
 
 
-public Buttonpanel(SundokuFrame frame) {
+public Buttonpanel(SudokuFrame frame) {
 //	setLayout(new BorderLayout());
 	
 	solveButton = new JButton ("Solve");
